@@ -1,0 +1,33 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="store.views.Count" />
+          <option value="store.models.CartItem.objects" />
+          <option value="store.apps.store_customer_user_id_key" />
+          <option value="django.utils.six" />
+          <option value="django.db.models.fields.FieldDoesNotExist" />
+          <option value="backend.recruitement_portal.urls.rest_framework_simplejwt" />
+          <option value="backend.candidate.serializers.candidate.models" />
+          <option value="notifications.models.AddFeedbackActivity" />
+          <option value="notifications.models.Register_activity" />
+          <option value="backend.masters.views.*" />
+          <option value="backend.agency.views.agency" />
+          <option value="backend.notifications.views.queryset" />
+          <option value="backend.dashboard.urls.DashboardStatsView" />
+          <option value="backend.dashboard.views.accounts" />
+          <option value="backend.dashboard.views.candidate__created_at_year" />
+          <option value="backend.dashboard.views.candidate__created_at__year" />
+          <option value="backend.recruitement_portal.middleware.resource" />
+          <option value="backend.dashboard.views.queryset" />
+          <option value="backend.candidate.serializers.event.interview_mode" />
+          <option value="backend.masters.serializers.question" />
+          <option value="backend.candidate.submodels.event.Choices" />
+          <option value="backend.job_profile.submodels.question.masters" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
